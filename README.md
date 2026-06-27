@@ -49,6 +49,11 @@ When the ERM motor spins, the eccentric mass creates a rotating centrifugal forc
 ●   ●   ●   ●   ●   ← pen nib contacts (pentagon)
 ```
 
+
+https://github.com/user-attachments/assets/0a167c2c-149a-4c65-8316-6d330ea1b5d6
+
+
+
 | Phase | What Happens |
 |-------|-------------|
 | **Slip** | Horizontal force > static friction → robot slides forward |
